@@ -1,11 +1,10 @@
-/.yarn/*
-!/.yarn/releases
-!/.yarn/plugins
-!/.yarn/sdks
+node_modules
 
-/.pnp.*
+yarn.lock
+.yarn
 
-logs
 dist
+logs
+.DS_STORE
 
-start.sh
+.vscode
