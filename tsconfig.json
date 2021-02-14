@@ -3,7 +3,7 @@
         "incremental": true,
         "target": "es6",
         "module": "commonjs",
-        "outDir": "./dist/server"
+        "outDir": "./dist"
     },
     "exclude": [
         "dist",
